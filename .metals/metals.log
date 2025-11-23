@@ -1,0 +1,316 @@
+2025.11.13 15:26:59 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF' for client Visual Studio Code 1.105.1.
+2025.11.13 15:27:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.13 15:29:20 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\guilh\AppData\Local\Temp\metals6415859637190358895\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.11.13 15:29:22 INFO  [info] welcome to sbt 1.11.5 (Oracle Corporation Java 17.0.12)
+2025.11.13 15:29:23 INFO  [info] loading settings for project tp67_acf-build-build from metals.sbt...
+2025.11.13 15:29:23 INFO  [info] loading project definition from C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\TP67_ACF\project\project
+2025.11.13 15:29:26 INFO  [info] loading settings for project tp67_acf-build from metals.sbt...
+2025.11.13 15:29:26 INFO  [info] loading project definition from C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\TP67_ACF\project
+2025.11.13 15:29:29 INFO  [success] Generated .bloop\tp67_acf-build.json
+2025.11.13 15:29:29 INFO  [success] Total time: 2 s, completed 13 nov. 2025, 15:29:29
+2025.11.13 15:29:30 INFO  [info] loading settings for project tp67_acf from build.sbt...
+2025.11.13 15:29:30 INFO  [info] set current project to TP67_ACF (in build file:/C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/)
+2025.11.13 15:29:31 INFO  [success] Generated .bloop\tp67_acf-test.json
+2025.11.13 15:29:31 INFO  [success] Generated .bloop\tp67_acf.json
+2025.11.13 15:29:31 INFO  [success] Total time: 1 s, completed 13 nov. 2025, 15:29:32
+2025.11.13 15:29:32 INFO  time: ran 'sbt bloopInstall' in 11s
+2025.11.13 15:29:32 INFO  Attempting to connect to the build server...
+2025.11.13 15:29:32 INFO  No running Bloop server found, starting one.
+2025.11.13 15:29:33 INFO  Starting compilation server
+2025.11.13 15:29:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\bsp.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.13 15:29:34 INFO  time: Connected to build server in 2.56s
+2025.11.13 15:29:34 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.13 15:29:38 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.13 15:29:45 INFO  time: indexed workspace in 10s
+2025.11.13 15:36:17 INFO  compiling tp67_acf (7 scala sources)
+2025.11.13 15:36:23 INFO  time: compiled tp67_acf in 6.1s
+2025.11.13 15:38:32 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 15:38:32 INFO  time: compiled tp67_acf in 0.27s
+2025.11.13 15:39:07 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:10:1: stale bloop error: illegal start of definition
+package tp67
+^
+2025.11.13 15:39:07 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:10:1: stale bloop error: illegal start of definition
+package tp67
+^
+2025.11.13 15:39:10 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:10:1: stale bloop error: illegal start of definition
+package tp67
+^
+2025.11.13 15:39:36 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 15:39:38 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 15:39:38 INFO  time: compiled tp67_acf in 2.18s
+2025.11.13 15:40:06 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 15:40:06 INFO  time: compiled tp67_acf in 0.12s
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 329
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 330
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+nov. 13, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 336
+nov. 13, 2025 3:40:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 341
+nov. 13, 2025 3:40:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 342
+nov. 13, 2025 3:41:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 418
+nov. 13, 2025 3:41:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+nov. 13, 2025 3:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+nov. 13, 2025 3:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 515
+nov. 13, 2025 3:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 517
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 527
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 528
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 530
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 531
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 536
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 542
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 545
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 547
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 550
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 553
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 554
+nov. 13, 2025 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 556
+nov. 13, 2025 3:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 560
+nov. 13, 2025 3:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 563
+nov. 13, 2025 3:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 564
+nov. 13, 2025 3:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 565
+nov. 13, 2025 3:41:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566
+nov. 13, 2025 3:42:31 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.11.13 15:42:31 INFO  Created report: Optional[file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/Analyzer.scala]
+2025.11.13 15:42:31 INFO  java.lang.AssertionError: assertion failed: bad position: [56:54] (full report at: "C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\.reports\metals-full\2025-11-13\r_compiler-error_(tp67_5facf)_15-42-31-797.md")
+2025.11.13 15:42:31 WARN  Could not find semantic tokens for: file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/Analyzer.scala
+nov. 13, 2025 3:42:39 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.11.13 15:42:39 INFO  Created report: Optional[file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/Analyzer.scala]
+2025.11.13 15:42:39 INFO  java.lang.AssertionError: assertion failed: bad position: [64:62] (full report at: "C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\.reports\metals-full\2025-11-13\r_compiler-error_(tp67_5facf)_15-42-39-163.md")
+nov. 13, 2025 3:42:39 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.11.13 15:42:39 INFO  Created report: Optional[file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/Analyzer.scala]
+2025.11.13 15:42:39 INFO  java.lang.AssertionError: assertion failed: bad position: [64:62] (full report at: "C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\.reports\metals-full\2025-11-13\r_compiler-error_(tp67_5facf)_15-42-39-214.md")
+2025.11.13 15:42:39 WARN  Could not find semantic tokens for: file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/Analyzer.scala
+nov. 13, 2025 3:42:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 681
+nov. 13, 2025 3:43:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 825
+nov. 13, 2025 3:43:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 829
+2025.11.13 15:43:22 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 15:43:22 INFO  time: compiled tp67_acf in 0.14s
+2025.11.13 15:43:43 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 15:43:43 INFO  time: compiled tp67_acf in 0.47s
+nov. 13, 2025 3:44:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.13 15:45:05 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:66)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:527)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:512)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:170)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 15:45:08 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-server.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.11.13 15:45:08 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-client.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.11.13 15:45:09 INFO  Starting debug proxy for [tp67.Main]
+2025.11.13 15:45:09 INFO  Loaded expression compiler in 615 milliseconds
+2025.11.13 15:45:11 INFO  Loaded all sources and classes in 2 seconds
+2025.11.13 15:45:11 INFO  Initialized Scala 3 decoder in 16 milliseconds
+2025.11.13 15:45:11 INFO  Trying to attach to remote debuggee VM 127.0.0.1:65284 .
+2025.11.13 15:45:11 INFO  Attaching to debuggee VM succeeded.
+2025.11.13 15:45:34 INFO  Canceling debug proxy for [tp67.Main]
+2025.11.13 15:45:34 INFO  Closing debug server tcp://0.0.0.0:65281
+2025.11.13 15:45:37 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-server.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.11.13 15:45:37 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-client.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.11.13 15:45:37 INFO  Starting debug proxy for [tp67.Main]
+2025.11.13 15:45:37 INFO  Loaded expression compiler in 0 milliseconds
+2025.11.13 15:45:37 INFO  Loaded all sources and classes in 785 milliseconds
+2025.11.13 15:45:37 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.11.13 15:45:37 INFO  Trying to attach to remote debuggee VM 127.0.0.1:65294 .
+2025.11.13 15:45:37 INFO  Attaching to debuggee VM succeeded.
+2025.11.13 15:46:01 INFO  Canceling debug proxy for [tp67.Main]
+2025.11.13 15:46:01 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-server.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.11.13 15:46:01 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-client.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.11.13 15:46:01 INFO  Starting debug proxy for [tp67.Main]
+2025.11.13 15:46:01 INFO  Loaded expression compiler in 1 millisecond
+2025.11.13 15:46:01 INFO  Loaded all sources and classes in 608 milliseconds
+2025.11.13 15:46:01 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.11.13 15:46:01 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60082 .
+2025.11.13 15:46:01 INFO  Attaching to debuggee VM succeeded.
+2025.11.13 15:46:09 INFO  Canceling debug proxy for [tp67.Main]
+2025.11.13 15:46:09 INFO  Closing debug server tcp://0.0.0.0:60080
+2025.11.13 15:46:11 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-server.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.11.13 15:46:11 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-client.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.11.13 15:46:11 INFO  Starting debug proxy for [tp67.Main]
+2025.11.13 15:46:11 INFO  Loaded expression compiler in 0 milliseconds
+2025.11.13 15:46:11 INFO  Loaded all sources and classes in 616 milliseconds
+2025.11.13 15:46:11 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.11.13 15:46:11 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60089 .
+2025.11.13 15:46:11 INFO  Attaching to debuggee VM succeeded.
+2025.11.13 15:46:30 INFO  Canceling debug proxy for [tp67.Main]
+2025.11.13 15:46:30 INFO  Closing debug server tcp://0.0.0.0:60087
+2025.11.13 15:46:42 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-server.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.11.13 15:46:42 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\dap-client.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.11.13 15:46:42 INFO  Starting debug proxy for [tp67.Main]
+2025.11.13 15:46:42 INFO  Loaded expression compiler in 0 milliseconds
+2025.11.13 15:46:42 INFO  Loaded all sources and classes in 659 milliseconds
+2025.11.13 15:46:42 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.11.13 15:46:42 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60108 .
+2025.11.13 15:46:42 INFO  Attaching to debuggee VM succeeded.
+2025.11.13 15:46:47 INFO  Canceling debug proxy for [tp67.Main]
+2025.11.13 15:46:47 INFO  Closing debug server tcp://0.0.0.0:60106
+2025.11.13 16:06:44 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:157:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 16:06:46 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 16:06:47 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 16:06:47 INFO  time: compiled tp67_acf in 2.01s
+2025.11.13 16:11:53 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 16:11:57 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 16:11:58 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 16:11:58 INFO  time: compiled tp67_acf in 1.53s
+2025.11.13 16:41:36 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 16:41:37 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 16:41:39 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 16:41:39 INFO  time: compiled tp67_acf in 1.49s
+2025.11.13 16:42:18 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 17:38:22 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 17:38:26 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 17:38:27 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 17:38:27 INFO  time: compiled tp67_acf in 1.35s
+2025.11.13 17:38:29 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:66)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:527)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:512)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:170)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 17:44:19 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 17:44:21 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 17:44:22 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 17:44:22 INFO  time: compiled tp67_acf in 1.31s
+2025.11.13 17:44:22 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:66)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:527)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:512)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:170)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 17:51:01 INFO  file:///C:/Users/guilh/Documents/00-Master1IL/ACF/TP/TP67_ACF/TP67_ACF/src/main/scala/tp67/tp67.scala:150:21: stale bloop warning: unreachable code
+  case (true, p) => p
+                    ^
+2025.11.13 17:51:02 INFO  compiling tp67_acf (1 scala source)
+2025.11.13 17:51:03 WARN  6 feature warnings; re-run with -feature for details
+2025.11.13 17:51:03 INFO  time: compiled tp67_acf in 1.28s
+2025.11.13 17:51:04 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:66)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:527)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:512)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:170)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+nov. 14, 2025 1:35:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.14 17:49:38 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF' for client Visual Studio Code 1.105.1.
+2025.11.14 17:49:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.14 17:49:45 INFO  no build target found for C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\TP67_ACF\src\main\scala\tp67\tp67.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.14 17:49:46 INFO  Attempting to connect to the build server...
+2025.11.14 17:49:46 INFO  No running Bloop server found, starting one.
+2025.11.14 17:49:51 INFO  Starting compilation server
+2025.11.14 17:49:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\bsp.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.14 17:49:58 INFO  time: Connected to build server in 11s
+2025.11.14 17:49:58 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.14 17:49:59 INFO  time: Imported build in 0.21s
+2025.11.14 17:50:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.14 17:50:09 INFO  time: indexed workspace in 11s
+2025.11.14 17:50:18 INFO  Shutting down server
+2025.11.14 17:50:18 INFO  shutting down Metals
+2025.11.14 17:50:18 INFO  Shut down connection with build server.
+2025.11.14 17:50:18 INFO  Exiting server
+2025.11.14 17:50:59 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF' for client Visual Studio Code 1.106.0.
+2025.11.14 17:51:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+nov. 14, 2025 5:51:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+nov. 14, 2025 5:51:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+nov. 14, 2025 5:51:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+nov. 14, 2025 5:51:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.14 17:51:02 INFO  Attempting to connect to the build server...
+nov. 14, 2025 5:51:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.14 17:51:02 INFO  Found a Bloop server running
+2025.11.14 17:51:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\bsp.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.14 17:51:03 INFO  time: Connected to build server in 0.8s
+2025.11.14 17:51:02 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.14 17:51:03 INFO  time: Imported build in 0.18s
+2025.11.14 17:51:10 INFO  Shutting down server
+2025.11.14 17:51:10 INFO  shutting down Metals
+2025.11.14 17:51:10 INFO  Shut down connection with build server.
+2025.11.14 17:51:10 INFO  Exiting server
+2025.11.23 18:31:32 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF' for client Visual Studio Code 1.106.2.
+2025.11.23 18:31:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.23 18:31:33 INFO  no build target found for C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\TP67_ACF\src\main\scala\tp67\tp67.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.23 18:31:33 INFO  Attempting to connect to the build server...
+2025.11.23 18:31:33 INFO  No running Bloop server found, starting one.
+2025.11.23 18:31:34 INFO  Starting compilation server
+2025.11.23 18:31:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\guilh\Documents\00-Master1IL\ACF\TP\TP67_ACF\.metals\bsp.trace.json or C:\Users\guilh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.23 18:31:36 INFO  time: Connected to build server in 3.01s
+2025.11.23 18:31:36 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.23 18:31:36 INFO  time: Imported build in 0.1s
+2025.11.23 18:31:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.23 18:31:43 INFO  time: indexed workspace in 6.64s

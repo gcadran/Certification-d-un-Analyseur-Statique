@@ -1,0 +1,201 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "tp67_acf",
+        "directory": "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF",
+        "workspaceDir": "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF",
+        "sources": [
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\src\\main\\scala",
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\src\\main\\scala-2.13",
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\src\\main\\scala-2",
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\src\\main\\java",
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\target\\scala-2.13\\src_managed\\main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\libJars\\tp67.jar",
+            "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+            "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar"
+        ],
+        "out": "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\.bloop\\tp67_acf",
+        "classesDir": "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\.bloop\\tp67_acf\\scala-2.13\\classes",
+        "resources": [
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\src\\main\\resources",
+            "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\target\\scala-2.13\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.16",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.16\\scala-compiler-2.13.16.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.16\\scala-reflect-2.13.16.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\github\\java-diff-utils\\java-diff-utils\\4.15\\java-diff-utils-4.15.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.27.1\\jline-3.27.1-jdk8.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": false,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            },
+            "bridgeJars": [
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala2-sbt-bridge\\2.13.16\\scala2-sbt-bridge-2.13.16.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-17",
+                "options": [
+                    "-Duser.dir=C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF"
+                ]
+            },
+            "mainClass": [
+                
+            ],
+            "runtimeConfig": {
+                "home": "C:\\Program Files\\Java\\jdk-17",
+                "options": [
+                    "-Duser.dir=C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF"
+                ]
+            },
+            "classpath": [
+                "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\.bloop\\tp67_acf\\scala-2.13\\classes",
+                "C:\\Users\\guilh\\Documents\\00-Master1IL\\ACF\\TP\\TP67_ACF\\TP67_ACF\\libJars\\tp67.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+                "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar"
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-parser-combinators_2.13",
+                    "version": "1.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar"
+                        },
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\guilh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}
