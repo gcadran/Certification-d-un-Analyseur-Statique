@@ -83,8 +83,4 @@ Des exemples de programmes `bilbo` sont fournis dans le répertoire racine (`ok*
 Si vous voulez des scripts pour exécuter tous les tests automatiquement, je peux en ajouter un (PowerShell ou sbt task) qui exécute l'analyseur sur chaque fichier et affiche un résumé.
 
 
-## Contribution
-
-- Forkez/clônez le dépôt, travaillez sur une branche, puis ouvrez une pull request.
-- Pour toute modification sur l’analyseur, conservez la correspondance entre la version Isabelle et le code Scala généré.
 
